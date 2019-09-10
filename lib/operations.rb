@@ -6,6 +6,7 @@ else speed < 40
 elsif speed == 40..60
   return false
 end
+end
 end 
 
 
