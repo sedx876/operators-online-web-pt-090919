@@ -6,7 +6,6 @@ else speed < 40
 #elsif speed == 40..60
   #return false
 else return false
-end
 end 
 
 
