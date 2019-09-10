@@ -4,6 +4,7 @@ if speed > 60
 else speed < 40
   puts "false"
 end
+end 
 
 
 
